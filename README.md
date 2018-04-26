@@ -6,7 +6,8 @@
     * 文章使用markdown
     * 设置个人基本信息
 # 二、项目展示
-  ![Alt text](https://17714574361.github.io/suxingjxd.github.io/pic/1.png)
+   注：页面是丑了点，但这不是重点
+  ![Alt text](https://17714574361.github.io/suxingjxd.github.io/pic/1.png)
   --------------------------------图1----------------------------------------
   ![Alt text](https://17714574361.github.io/suxingjxd.github.io/pic/2.png)
   ----------------------------------图2--------------------------------------
